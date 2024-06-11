@@ -1,0 +1,47 @@
+body{
+    background-color: #393E46;
+    
+}
+.heading
+{
+    font-size: 8rem;
+    font-family: 'Lobster Two';
+    font-style: normal;
+    font-weight: 700;
+    color: #4ECCA3;
+    margin: 30px;
+}
+h1{
+    color: #4ECCA3;
+    font-family: 'Lobster Two';
+    font-style: normal;
+}
+
+.container{
+    text-align: center;
+}
+.container1
+{
+    margin-right: 318px;
+    margin-top: 50px;
+}
+.container2
+{
+    position: relative;
+    left: 180px;
+    margin-bottom: 0px;
+    bottom: 354px;
+}
+footer{
+    font-size: large;
+    position: relative;
+    bottom: 280px;
+
+}
+i{
+    margin-right: 10px;
+
+}
+img{
+    padding-top: 15px;
+}
